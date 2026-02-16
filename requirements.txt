@@ -1,0 +1,6 @@
+ffmpeg-python
+questionary
+python-dotenv
+colorama
+tqdm
+pyinstaller
